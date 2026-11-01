@@ -98,15 +98,4 @@ ai_interview_practice_app/
 7. Streamlit displays the questions, feedback, scores, and progress.
 8. `requirements.txt` lists the Python packages needed to run the project.
 
-## FAL project write-up
-**Title:** InterviewIQ — AI Interview Practice Application Using Python
 
-**Problem statement:** Students need an accessible way to practise interview questions and receive feedback before placement interviews.
-
-**Objective:** To build a Python web application that generates interview questions and evaluates written answers using a generative AI model.
-
-**Methodology:** The user selects interview settings → Gemini generates questions → the user submits an answer → Gemini returns feedback and a score → the app displays results.
-
-**Limitations:** AI feedback may be inaccurate or inconsistent. Scores are practice guidance only and do not predict hiring outcomes. The starter version keeps history in the active session and does not include login or a permanent database.
-
-**Future scope:** Voice-based answers, downloadable reports, persistent database, user accounts, and a larger question bank.
